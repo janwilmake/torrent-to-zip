@@ -1,0 +1,5 @@
+name = "torrent-downloader"
+main = "main.ts"
+compatibility_date = "2025-01-01"
+dev.port = 3000
+compatibility_flags = [ "nodejs_compat" ]

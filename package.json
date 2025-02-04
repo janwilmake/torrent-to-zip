@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "webtorrent": "^2.5.18"
+  },
+  "devDependencies": {
+    "@types/archiver": "^5.3.4",
+    "@types/node": "^20.11.19",
+    "@types/webtorrent": "^0.109.7",
+    "typescript": "^5.3.3"
+  }
+}
